@@ -646,62 +646,6 @@
       "isHDR": false
     },
     {
-      "id": "photo_2025-07-27_09-16-22",
-      "title": "photo 09 16 22",
-      "description": "",
-      "dateTaken": "2025-07-27T00:00:00.000Z",
-      "tags": [
-        "sex"
-      ],
-      "originalUrl": "https://r2.weii.eu.org/sex/photo_2025-07-27_09-16-22.jpg",
-      "thumbnailUrl": "/thumbnails/photo_2025-07-27_09-16-22.webp",
-      "thumbHash": "a318060d02f4a6a688d94b566a9c66972677604207",
-      "width": 854,
-      "height": 1245,
-      "aspectRatio": 0.6859437751004016,
-      "s3Key": "sex/photo_2025-07-27_09-16-22.jpg",
-      "lastModified": "2025-07-27T01:19:37.282Z",
-      "size": 111379,
-      "exif": null,
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 57,
-        "contrast": 35,
-        "shadowRatio": 0.1,
-        "highlightRatio": 0.34
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "photo_2025-07-27_09-16-25",
-      "title": "photo 09 16 25",
-      "description": "",
-      "dateTaken": "2025-07-27T00:00:00.000Z",
-      "tags": [
-        "sex"
-      ],
-      "originalUrl": "https://r2.weii.eu.org/sex/photo_2025-07-27_09-16-25.jpg",
-      "thumbnailUrl": "/thumbnails/photo_2025-07-27_09-16-25.webp",
-      "thumbHash": "d4380a0d001c39716609c6998986b8780ec7d852cf",
-      "width": 854,
-      "height": 1245,
-      "aspectRatio": 0.6859437751004016,
-      "s3Key": "sex/photo_2025-07-27_09-16-25.jpg",
-      "lastModified": "2025-07-27T01:19:37.141Z",
-      "size": 116624,
-      "exif": null,
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 32,
-        "contrast": 48,
-        "shadowRatio": 0.58,
-        "highlightRatio": 0.11
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
       "id": "photo_2025-07-27_09-16-33",
       "title": "photo 09 16 33",
       "description": "",
