@@ -2,6 +2,5270 @@
   "version": "v5",
   "data": [
     {
+      "id": "image_183",
+      "title": "image 183",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:59.741Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_183.png",
+      "thumbnailUrl": "/thumbnails/image_183.webp",
+      "thumbHash": "a618060d02dfbe78975497d857787677803f06c973",
+      "width": 3840,
+      "height": 5120,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_183.png",
+      "lastModified": "2025-07-27T02:58:19.368Z",
+      "size": 13836512,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 62,
+        "contrast": 35,
+        "shadowRatio": 0.05,
+        "highlightRatio": 0.38
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_182",
+      "title": "image 182",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:59.559Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_182.png",
+      "thumbnailUrl": "/thumbnails/image_182.webp",
+      "thumbHash": "20f8050d022ba79448cb88d98370a898128f03955b",
+      "width": 3840,
+      "height": 5120,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_182.png",
+      "lastModified": "2025-07-27T02:58:18.247Z",
+      "size": 10178923,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 52,
+        "contrast": 40,
+        "shadowRatio": 0.17,
+        "highlightRatio": 0.2
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_171",
+      "title": "image 171",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:59.491Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_171.png",
+      "thumbnailUrl": "/thumbnails/image_171.webp",
+      "thumbHash": "6a18060d02bf4a3b4647b7a7865e7567625f04e654",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_171.png",
+      "lastModified": "2025-07-27T02:58:00.808Z",
+      "size": 7375942,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 67,
+        "contrast": 35,
+        "shadowRatio": 0.05,
+        "highlightRatio": 0.51
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_164",
+      "title": "image 164",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:59.481Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_164.png",
+      "thumbnailUrl": "/thumbnails/image_164.webp",
+      "thumbHash": "e428160d027fa57a789686888779988749ba2f05cb",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_164.png",
+      "lastModified": "2025-07-27T02:57:51.232Z",
+      "size": 8195182,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "high-contrast",
+        "brightness": 59,
+        "contrast": 63,
+        "shadowRatio": 0.32,
+        "highlightRatio": 0.52
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_172",
+      "title": "image 172",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:59.432Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_172.png",
+      "thumbnailUrl": "/thumbnails/image_172.webp",
+      "thumbHash": "a528160d027f967a78a676987778888848ac0f05cb",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_172.png",
+      "lastModified": "2025-07-27T02:58:49.326Z",
+      "size": 8577885,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "high-contrast",
+        "brightness": 59,
+        "contrast": 64,
+        "shadowRatio": 0.33,
+        "highlightRatio": 0.53
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_170",
+      "title": "image 170",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:59.377Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_170.png",
+      "thumbnailUrl": "/thumbnails/image_170.webp",
+      "thumbHash": "e528160d026fa67a77968698877988880bad1b04ab",
+      "width": 1892,
+      "height": 2560,
+      "aspectRatio": 0.7390625,
+      "s3Key": "red book/image_170.png",
+      "lastModified": "2025-07-27T02:57:57.107Z",
+      "size": 8140586,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 60,
+        "contrast": 62,
+        "shadowRatio": 0.29,
+        "highlightRatio": 0.55
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_184",
+      "title": "image 184",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:59.320Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_184.png",
+      "thumbnailUrl": "/thumbnails/image_184.webp",
+      "thumbHash": "5b08121d0479998f88877768878797885562500406",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_184.png",
+      "lastModified": "2025-07-27T02:58:18.876Z",
+      "size": 2408667,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 44,
+        "contrast": 50,
+        "shadowRatio": 0.44,
+        "highlightRatio": 0.25
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_188",
+      "title": "image 188",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:59.199Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_188.png",
+      "thumbnailUrl": "/thumbnails/image_188.webp",
+      "thumbHash": "e907062506cc745f94f99789989187a76680570578",
+      "width": 1706,
+      "height": 2560,
+      "aspectRatio": 0.66640625,
+      "s3Key": "red book/image_188.png",
+      "lastModified": "2025-07-27T02:58:27.604Z",
+      "size": 5749093,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 66,
+        "contrast": 37,
+        "shadowRatio": 0.07,
+        "highlightRatio": 0.6
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_177",
+      "title": "image 177",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:59.160Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_177.png",
+      "thumbnailUrl": "/thumbnails/image_177.webp",
+      "thumbHash": "6e080a050274657b8705869876766887d7c07f19fa",
+      "width": 1280,
+      "height": 1707,
+      "aspectRatio": 0.7498535442296427,
+      "s3Key": "red book/image_177.png",
+      "lastModified": "2025-07-27T02:58:07.319Z",
+      "size": 3866237,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "high-key",
+        "brightness": 74,
+        "contrast": 29,
+        "shadowRatio": 0.01,
+        "highlightRatio": 0.73
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_185",
+      "title": "image 185",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:59.141Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_185.png",
+      "thumbnailUrl": "/thumbnails/image_185.webp",
+      "thumbHash": "a4180e0d02c08bac6687776787778878b09d0bacb8",
+      "width": 1440,
+      "height": 1920,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_185.png",
+      "lastModified": "2025-07-27T02:58:24.677Z",
+      "size": 3299787,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 59,
+        "contrast": 50,
+        "shadowRatio": 0.19,
+        "highlightRatio": 0.5
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_187",
+      "title": "image 187",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:59.102Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_187.png",
+      "thumbnailUrl": "/thumbnails/image_187.webp",
+      "thumbHash": "6a08060d02d8c0734747a778787769b93091078669",
+      "width": 1920,
+      "height": 2559,
+      "aspectRatio": 0.7502930832356389,
+      "s3Key": "red book/image_187.png",
+      "lastModified": "2025-07-27T02:58:23.718Z",
+      "size": 4119961,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 67,
+        "contrast": 40,
+        "shadowRatio": 0.09,
+        "highlightRatio": 0.68
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_189",
+      "title": "image 189",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:59.033Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_189.png",
+      "thumbnailUrl": "/thumbnails/image_189.webp",
+      "thumbHash": "6708060502d2369ba8e9d896708e549a30f236b07a",
+      "width": 1920,
+      "height": 2559,
+      "aspectRatio": 0.7502930832356389,
+      "s3Key": "red book/image_189.png",
+      "lastModified": "2025-07-27T02:58:34.345Z",
+      "size": 6671008,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 63,
+        "contrast": 39,
+        "shadowRatio": 0.11,
+        "highlightRatio": 0.61
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_163",
+      "title": "image 163",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.932Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_163.png",
+      "thumbnailUrl": "/thumbnails/image_163.webp",
+      "thumbHash": "e528120d028fa57b879686988779888859aa3f05ca",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_163.png",
+      "lastModified": "2025-07-27T02:57:33.061Z",
+      "size": 8506267,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "high-contrast",
+        "brightness": 59,
+        "contrast": 61,
+        "shadowRatio": 0.3,
+        "highlightRatio": 0.52
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_160",
+      "title": "image 160",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.880Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_160.png",
+      "thumbnailUrl": "/thumbnails/image_160.webp",
+      "thumbHash": "57180e0d02fbd99998877757978767780039088085",
+      "width": 3024,
+      "height": 4032,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_160.png",
+      "lastModified": "2025-07-27T02:57:30.625Z",
+      "size": 12776816,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 37,
+        "contrast": 54,
+        "shadowRatio": 0.52,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_166",
+      "title": "image 166",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.846Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_166.png",
+      "thumbnailUrl": "/thumbnails/image_166.webp",
+      "thumbHash": "2808060d02cc5960a763c69a88a97aea8073068858",
+      "width": 1918,
+      "height": 2559,
+      "aspectRatio": 0.7495115279406018,
+      "s3Key": "red book/image_166.png",
+      "lastModified": "2025-07-27T02:57:49.898Z",
+      "size": 5995111,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 64,
+        "contrast": 43,
+        "shadowRatio": 0.11,
+        "highlightRatio": 0.6
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_181",
+      "title": "image 181",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.832Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_181.png",
+      "thumbnailUrl": "/thumbnails/image_181.webp",
+      "thumbHash": "abe7052406e87968b867890747488980940668",
+      "width": 1440,
+      "height": 2560,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_181.png",
+      "lastModified": "2025-07-27T02:58:14.058Z",
+      "size": 4865299,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 67,
+        "contrast": 24,
+        "shadowRatio": 0.02,
+        "highlightRatio": 0.66
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_162",
+      "title": "image 162",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.738Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_162.png",
+      "thumbnailUrl": "/thumbnails/image_162.webp",
+      "thumbHash": "60080a0d02cb943f76895a79a5696598467f369068",
+      "width": 3840,
+      "height": 5120,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_162.png",
+      "lastModified": "2025-07-27T02:57:49.995Z",
+      "size": 11433795,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 51,
+        "contrast": 47,
+        "shadowRatio": 0.24,
+        "highlightRatio": 0.27
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_176",
+      "title": "image 176",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.526Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_176.png",
+      "thumbnailUrl": "/thumbnails/image_176.webp",
+      "thumbHash": "9e18121d0497898f98977667797588872aa2a0100a",
+      "width": 1080,
+      "height": 1443,
+      "aspectRatio": 0.7484407484407485,
+      "s3Key": "red book/image_176.png",
+      "lastModified": "2025-07-27T02:58:04.687Z",
+      "size": 2104327,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 49,
+        "contrast": 53,
+        "shadowRatio": 0.41,
+        "highlightRatio": 0.41
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_174",
+      "title": "image 174",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.414Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_174.png",
+      "thumbnailUrl": "/thumbnails/image_174.webp",
+      "thumbHash": "a8e7051c04adb89969987078a76666804b05c8",
+      "width": 1440,
+      "height": 2560,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_174.png",
+      "lastModified": "2025-07-27T02:58:01.833Z",
+      "size": 4942319,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 62,
+        "contrast": 35,
+        "shadowRatio": 0.1,
+        "highlightRatio": 0.55
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_186",
+      "title": "image 186",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.397Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_186.png",
+      "thumbnailUrl": "/thumbnails/image_186.webp",
+      "thumbHash": "2a0806150290c80887eb7886ad7b58954fb1f9019d",
+      "width": 1280,
+      "height": 1707,
+      "aspectRatio": 0.7498535442296427,
+      "s3Key": "red book/image_186.png",
+      "lastModified": "2025-07-27T02:58:25.860Z",
+      "size": 3868796,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 66,
+        "contrast": 35,
+        "shadowRatio": 0.06,
+        "highlightRatio": 0.59
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_173",
+      "title": "image 173",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.301Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_173.png",
+      "thumbnailUrl": "/thumbnails/image_173.webp",
+      "thumbHash": "e528160d026fa67b77868698877988880aad0c04bc",
+      "width": 1858,
+      "height": 2560,
+      "aspectRatio": 0.72578125,
+      "s3Key": "red book/image_173.png",
+      "lastModified": "2025-07-27T02:58:00.568Z",
+      "size": 8028035,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 59,
+        "contrast": 62,
+        "shadowRatio": 0.29,
+        "highlightRatio": 0.54
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_179",
+      "title": "image 179",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.268Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_179.png",
+      "thumbnailUrl": "/thumbnails/image_179.webp",
+      "thumbHash": "97180e0d02d0b677a8a8799878778778c54a5f75f4",
+      "width": 1440,
+      "height": 1920,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_179.png",
+      "lastModified": "2025-07-27T02:58:10.949Z",
+      "size": 3884896,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 37,
+        "contrast": 58,
+        "shadowRatio": 0.54,
+        "highlightRatio": 0.26
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_168",
+      "title": "image 168",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.111Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_168.png",
+      "thumbnailUrl": "/thumbnails/image_168.webp",
+      "thumbHash": "6318120d02a8698f8927887888788877066a797067",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_168.png",
+      "lastModified": "2025-07-27T02:57:56.324Z",
+      "size": 5181805,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 56,
+        "contrast": 59,
+        "shadowRatio": 0.23,
+        "highlightRatio": 0.38
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_165",
+      "title": "image 165",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.067Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_165.png",
+      "thumbnailUrl": "/thumbnails/image_165.webp",
+      "thumbHash": "65180e0d02a7798f9b16799887687878064a8b70a6",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_165.png",
+      "lastModified": "2025-07-27T02:57:48.638Z",
+      "size": 5367359,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 60,
+        "contrast": 57,
+        "shadowRatio": 0.19,
+        "highlightRatio": 0.46
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_180",
+      "title": "image 180",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.045Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_180.png",
+      "thumbnailUrl": "/thumbnails/image_180.webp",
+      "thumbHash": "aa18121d04f768787c5688a7777896787580480578",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_180.png",
+      "lastModified": "2025-07-27T02:58:10.947Z",
+      "size": 1546480,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 68,
+        "contrast": 56,
+        "shadowRatio": 0.15,
+        "highlightRatio": 0.67
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_178",
+      "title": "image 178",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:58.035Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_178.png",
+      "thumbnailUrl": "/thumbnails/image_178.webp",
+      "thumbHash": "5a280e0c02bc6f89877779667889b0720f47d7",
+      "width": 902,
+      "height": 1436,
+      "aspectRatio": 0.628133704735376,
+      "s3Key": "red book/image_178.png",
+      "lastModified": "2025-07-27T02:58:07.680Z",
+      "size": 1341670,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 56,
+        "shadowRatio": 0.61,
+        "highlightRatio": 0.21
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_144",
+      "title": "image 144",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:57.878Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_144.png",
+      "thumbnailUrl": "/thumbnails/image_144.webp",
+      "thumbHash": "9a180a0c0271429889897f76494969308f03d4",
+      "width": 2268,
+      "height": 4032,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_144.png",
+      "lastModified": "2025-07-27T02:56:03.354Z",
+      "size": 11530235,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 42,
+        "contrast": 57,
+        "shadowRatio": 0.5,
+        "highlightRatio": 0.27
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_169",
+      "title": "image 169",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:57.848Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_169.png",
+      "thumbnailUrl": "/thumbnails/image_169.webp",
+      "thumbHash": "a9180a2504fb44866c459898677b76888870890997",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_169.png",
+      "lastModified": "2025-07-27T02:57:55.516Z",
+      "size": 1935746,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 67,
+        "contrast": 56,
+        "shadowRatio": 0.16,
+        "highlightRatio": 0.61
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_159",
+      "title": "image 159",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:57.765Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_159.png",
+      "thumbnailUrl": "/thumbnails/image_159.webp",
+      "thumbHash": "20f8050d00080f86385caa9586829797158f15c09a",
+      "width": 3840,
+      "height": 5120,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_159.png",
+      "lastModified": "2025-07-27T02:57:15.270Z",
+      "size": 9096839,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 52,
+        "contrast": 44,
+        "shadowRatio": 0.16,
+        "highlightRatio": 0.24
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_157",
+      "title": "image 157",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:57.608Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_157.png",
+      "thumbnailUrl": "/thumbnails/image_157.webp",
+      "thumbHash": "dc280a0d022f39ab65696787996667878480602a07",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_157.png",
+      "lastModified": "2025-07-27T02:56:47.069Z",
+      "size": 8512593,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 45,
+        "contrast": 47,
+        "shadowRatio": 0.31,
+        "highlightRatio": 0.16
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_161",
+      "title": "image 161",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:57.466Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_161.png",
+      "thumbnailUrl": "/thumbnails/image_161.webp",
+      "thumbHash": "5b080a0f8264b97b6f858870786788877877e80d4bafa10b",
+      "width": 1184,
+      "height": 1161,
+      "aspectRatio": 1.0198105081826012,
+      "s3Key": "red book/image_161.png",
+      "lastModified": "2025-07-27T02:57:10.322Z",
+      "size": 2323047,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 45,
+        "contrast": 41,
+        "shadowRatio": 0.31,
+        "highlightRatio": 0.15
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_175",
+      "title": "image 175",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:57.392Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_175.png",
+      "thumbnailUrl": "/thumbnails/image_175.webp",
+      "thumbHash": "aa180e1d04f757787c5688a8788797788680590689",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_175.png",
+      "lastModified": "2025-07-27T02:58:03.584Z",
+      "size": 1560017,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 69,
+        "contrast": 56,
+        "shadowRatio": 0.14,
+        "highlightRatio": 0.65
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_158",
+      "title": "image 158",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:57.353Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_158.png",
+      "thumbnailUrl": "/thumbnails/image_158.webp",
+      "thumbHash": "e528120d026fa68b789686888769978859b92f04bb",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_158.png",
+      "lastModified": "2025-07-27T02:57:09.310Z",
+      "size": 8515284,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 59,
+        "contrast": 62,
+        "shadowRatio": 0.29,
+        "highlightRatio": 0.53
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_147",
+      "title": "image 147",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:57.195Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_147.png",
+      "thumbnailUrl": "/thumbnails/image_147.webp",
+      "thumbHash": "1f08060d02ae362f749c6839b74a8586658f06a46a",
+      "width": 3840,
+      "height": 5120,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_147.png",
+      "lastModified": "2025-07-27T02:56:13.053Z",
+      "size": 11442864,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 49,
+        "contrast": 48,
+        "shadowRatio": 0.23,
+        "highlightRatio": 0.21
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_145",
+      "title": "image 145",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:57.191Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_145.png",
+      "thumbnailUrl": "/thumbnails/image_145.webp",
+      "thumbHash": "a808060d02f451658ba899798977767622d007b16b",
+      "width": 1920,
+      "height": 2559,
+      "aspectRatio": 0.7502930832356389,
+      "s3Key": "red book/image_145.png",
+      "lastModified": "2025-07-27T02:56:05.160Z",
+      "size": 6907864,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 65,
+        "contrast": 34,
+        "shadowRatio": 0.1,
+        "highlightRatio": 0.6
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_167",
+      "title": "image 167",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:57.100Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_167.png",
+      "thumbnailUrl": "/thumbnails/image_167.webp",
+      "thumbHash": "600812250688789f87887857867877987561500606",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_167.png",
+      "lastModified": "2025-07-27T02:57:53.969Z",
+      "size": 1968871,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 52,
+        "contrast": 55,
+        "shadowRatio": 0.35,
+        "highlightRatio": 0.4
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_148",
+      "title": "image 148",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:57.059Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_148.png",
+      "thumbnailUrl": "/thumbnails/image_148.webp",
+      "thumbHash": "e628120d027fa57b879686888778887878ba2f04bb",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_148.png",
+      "lastModified": "2025-07-27T02:56:20.034Z",
+      "size": 8313296,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 60,
+        "contrast": 61,
+        "shadowRatio": 0.28,
+        "highlightRatio": 0.55
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_153",
+      "title": "image 153",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:57.017Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_153.png",
+      "thumbnailUrl": "/thumbnails/image_153.webp",
+      "thumbHash": "6b08060d029cb2ad45faab79aa3636c73660570167",
+      "width": 1280,
+      "height": 1707,
+      "aspectRatio": 0.7498535442296427,
+      "s3Key": "red book/image_153.png",
+      "lastModified": "2025-07-27T02:56:30.543Z",
+      "size": 3697229,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 69,
+        "contrast": 36,
+        "shadowRatio": 0.05,
+        "highlightRatio": 0.61
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_138",
+      "title": "image 138",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:56.930Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_138.png",
+      "thumbnailUrl": "/thumbnails/image_138.webp",
+      "thumbHash": "21f80d0d02ac868b75f875589984a786579c0f718a",
+      "width": 3840,
+      "height": 5120,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_138.png",
+      "lastModified": "2025-07-27T02:55:33.262Z",
+      "size": 10239175,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 53,
+        "contrast": 55,
+        "shadowRatio": 0.26,
+        "highlightRatio": 0.43
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_152",
+      "title": "image 152",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:56.911Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_152.png",
+      "thumbnailUrl": "/thumbnails/image_152.webp",
+      "thumbHash": "e7180e0d00809bac77877867777688886c9fb7f388",
+      "width": 1440,
+      "height": 1920,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_152.png",
+      "lastModified": "2025-07-27T02:56:22.791Z",
+      "size": 3536913,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 63,
+        "contrast": 50,
+        "shadowRatio": 0.18,
+        "highlightRatio": 0.67
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_141",
+      "title": "image 141",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:56.732Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_141.png",
+      "thumbnailUrl": "/thumbnails/image_141.webp",
+      "thumbHash": "69080a0d047785908747685949956778f38e7bf899",
+      "width": 1920,
+      "height": 2559,
+      "aspectRatio": 0.7502930832356389,
+      "s3Key": "red book/image_141.png",
+      "lastModified": "2025-07-27T02:55:40.908Z",
+      "size": 7289935,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 66,
+        "contrast": 29,
+        "shadowRatio": 0.03,
+        "highlightRatio": 0.63
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_154",
+      "title": "image 154",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:56.658Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_154.png",
+      "thumbnailUrl": "/thumbnails/image_154.webp",
+      "thumbHash": "efe7090c04baf668987886788898059158b058",
+      "width": 1080,
+      "height": 1920,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_154.png",
+      "lastModified": "2025-07-27T02:56:24.852Z",
+      "size": 1665582,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "high-key",
+        "brightness": 74,
+        "contrast": 32,
+        "shadowRatio": 0.03,
+        "highlightRatio": 0.82
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_149",
+      "title": "image 149",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:56.486Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_149.png",
+      "thumbnailUrl": "/thumbnails/image_149.webp",
+      "thumbHash": "6a08060d0095278161479556858905e8508105c069",
+      "width": 2336,
+      "height": 3115,
+      "aspectRatio": 0.7499197431781701,
+      "s3Key": "red book/image_149.png",
+      "lastModified": "2025-07-27T02:56:19.826Z",
+      "size": 8857487,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 67,
+        "contrast": 36,
+        "shadowRatio": 0.08,
+        "highlightRatio": 0.7
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_156",
+      "title": "image 156",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:56.439Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_156.png",
+      "thumbnailUrl": "/thumbnails/image_156.webp",
+      "thumbHash": "ec180e2504fa46767c459888777b768887707a0897",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_156.png",
+      "lastModified": "2025-07-27T02:56:31.802Z",
+      "size": 1995024,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "high-key",
+        "brightness": 71,
+        "contrast": 57,
+        "shadowRatio": 0.14,
+        "highlightRatio": 0.69
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_136",
+      "title": "image 136",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:56.381Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_136.png",
+      "thumbnailUrl": "/thumbnails/image_136.webp",
+      "thumbHash": "9f28120d028f948a87967699777987884dbb6f208a",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_136.png",
+      "lastModified": "2025-07-27T02:55:20.913Z",
+      "size": 7955199,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 50,
+        "contrast": 54,
+        "shadowRatio": 0.31,
+        "highlightRatio": 0.34
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_133",
+      "title": "image 133",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:56.355Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_133.png",
+      "thumbnailUrl": "/thumbnails/image_133.webp",
+      "thumbHash": "e4f7090502dcb28e75f76728a878967610ac0e6099",
+      "width": 3840,
+      "height": 5120,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_133.png",
+      "lastModified": "2025-07-27T02:55:09.837Z",
+      "size": 9228452,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 56,
+        "contrast": 60,
+        "shadowRatio": 0.28,
+        "highlightRatio": 0.54
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_129",
+      "title": "image 129",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:56.282Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_129.png",
+      "thumbnailUrl": "/thumbnails/image_129.webp",
+      "thumbHash": "db18061d043eb344a109e487bd7b79878a7f19b490",
+      "width": 2766,
+      "height": 3689,
+      "aspectRatio": 0.7497966928706966,
+      "s3Key": "red book/image_129.png",
+      "lastModified": "2025-07-27T02:55:01.797Z",
+      "size": 12067038,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 45,
+        "contrast": 46,
+        "shadowRatio": 0.28,
+        "highlightRatio": 0.21
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_146",
+      "title": "image 146",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:56.135Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_146.png",
+      "thumbnailUrl": "/thumbnails/image_146.webp",
+      "thumbHash": "96280e0d0269976f79a88898788998763a6f96f036",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_146.png",
+      "lastModified": "2025-07-27T02:55:53.136Z",
+      "size": 1233355,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 36,
+        "contrast": 53,
+        "shadowRatio": 0.44,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_155",
+      "title": "image 155",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:56.095Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_155.png",
+      "thumbnailUrl": "/thumbnails/image_155.webp",
+      "thumbHash": "9e08121d0499867f68977858768698773450400125",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_155.png",
+      "lastModified": "2025-07-27T02:56:24.289Z",
+      "size": 2038014,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 49,
+        "contrast": 53,
+        "shadowRatio": 0.4,
+        "highlightRatio": 0.41
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_150",
+      "title": "image 150",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:55.974Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_150.png",
+      "thumbnailUrl": "/thumbnails/image_150.webp",
+      "thumbHash": "a518121d04f986a67b777897677888879a609a09a6",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_150.png",
+      "lastModified": "2025-07-27T02:56:12.816Z",
+      "size": 1772773,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 60,
+        "contrast": 64,
+        "shadowRatio": 0.24,
+        "highlightRatio": 0.48
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_135",
+      "title": "image 135",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:55.939Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_135.png",
+      "thumbnailUrl": "/thumbnails/image_135.webp",
+      "thumbHash": "a0180a0d02f78a9465c696f7857c9597a97facf987",
+      "width": 2094,
+      "height": 2850,
+      "aspectRatio": 0.7347368421052631,
+      "s3Key": "red book/image_135.png",
+      "lastModified": "2025-07-27T02:55:19.252Z",
+      "size": 6867824,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 52,
+        "contrast": 49,
+        "shadowRatio": 0.26,
+        "highlightRatio": 0.36
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_143",
+      "title": "image 143",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:55.902Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_143.png",
+      "thumbnailUrl": "/thumbnails/image_143.webp",
+      "thumbHash": "9c28061506f33bbb5a577fa39938584587717f17f7",
+      "width": 1080,
+      "height": 1560,
+      "aspectRatio": 0.6923076923076923,
+      "s3Key": "red book/image_143.png",
+      "lastModified": "2025-07-27T02:55:41.779Z",
+      "size": 1471919,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 46,
+        "contrast": 37,
+        "shadowRatio": 0.26,
+        "highlightRatio": 0.12
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_124",
+      "title": "image 124",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:55.828Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_124.png",
+      "thumbnailUrl": "/thumbnails/image_124.webp",
+      "thumbHash": "e0280a0c02b074959b77596578680743984094",
+      "width": 2268,
+      "height": 4032,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_124.png",
+      "lastModified": "2025-07-27T02:54:45.778Z",
+      "size": 10519922,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 52,
+        "contrast": 46,
+        "shadowRatio": 0.23,
+        "highlightRatio": 0.33
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_142",
+      "title": "image 142",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:55.687Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_142.png",
+      "thumbnailUrl": "/thumbnails/image_142.webp",
+      "thumbHash": "da2812150297a97f7a87687667888897987f88f557",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_142.png",
+      "lastModified": "2025-07-27T02:55:42.642Z",
+      "size": 968110,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "high-contrast",
+        "brightness": 42,
+        "contrast": 61,
+        "shadowRatio": 0.42,
+        "highlightRatio": 0.33
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_121",
+      "title": "image 121",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:55.670Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_121.png",
+      "thumbnailUrl": "/thumbnails/image_121.webp",
+      "thumbHash": "19290a0c02369698688857085998786a8f95f6",
+      "width": 2268,
+      "height": 4032,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_121.png",
+      "lastModified": "2025-07-27T02:54:32.545Z",
+      "size": 11551317,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 42,
+        "contrast": 49,
+        "shadowRatio": 0.47,
+        "highlightRatio": 0.23
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_151",
+      "title": "image 151",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:55.559Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_151.png",
+      "thumbnailUrl": "/thumbnails/image_151.webp",
+      "thumbHash": "98070a1d02f4c67d877669d8678797970877965057",
+      "width": 769,
+      "height": 1133,
+      "aspectRatio": 0.678729037952339,
+      "s3Key": "red book/image_151.png",
+      "lastModified": "2025-07-27T02:56:20.548Z",
+      "size": 1311307,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 38,
+        "contrast": 47,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.13
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_125",
+      "title": "image 125",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:55.536Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_125.png",
+      "thumbnailUrl": "/thumbnails/image_125.webp",
+      "thumbHash": "da280a140447649888774fa9b9b97850860666",
+      "width": 2268,
+      "height": 4032,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_125.png",
+      "lastModified": "2025-07-27T02:54:36.703Z",
+      "size": 10581698,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 42,
+        "contrast": 55,
+        "shadowRatio": 0.47,
+        "highlightRatio": 0.26
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_128",
+      "title": "image 128",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:55.423Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_128.png",
+      "thumbnailUrl": "/thumbnails/image_128.webp",
+      "thumbHash": "22f809150220838c9df69c377468369586af95f968",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_128.png",
+      "lastModified": "2025-07-27T02:55:04.194Z",
+      "size": 8766134,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 54,
+        "contrast": 49,
+        "shadowRatio": 0.2,
+        "highlightRatio": 0.3
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_130",
+      "title": "image 130",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:55.422Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_130.png",
+      "thumbnailUrl": "/thumbnails/image_130.webp",
+      "thumbHash": "6908060d020c48a2aae6d9a885576778a07606c967",
+      "width": 1889,
+      "height": 2558,
+      "aspectRatio": 0.7384675527756059,
+      "s3Key": "red book/image_130.png",
+      "lastModified": "2025-07-27T02:54:54.062Z",
+      "size": 6721706,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 66,
+        "contrast": 37,
+        "shadowRatio": 0.1,
+        "highlightRatio": 0.58
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_139",
+      "title": "image 139",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:55.405Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_139.png",
+      "thumbnailUrl": "/thumbnails/image_139.webp",
+      "thumbHash": "e6280a0e82aa968791a877705727896779747cefe1f57c",
+      "width": 1198,
+      "height": 1080,
+      "aspectRatio": 1.1092592592592592,
+      "s3Key": "red book/image_139.png",
+      "lastModified": "2025-07-27T02:55:33.598Z",
+      "size": 1760449,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 63,
+        "contrast": 36,
+        "shadowRatio": 0.09,
+        "highlightRatio": 0.46
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_120",
+      "title": "image 120",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:55.233Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_120.png",
+      "thumbnailUrl": "/thumbnails/image_120.webp",
+      "thumbHash": "22080e0d02ac768a76f866588975a87665aa0f70aa",
+      "width": 3840,
+      "height": 5120,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_120.png",
+      "lastModified": "2025-07-27T02:54:31.149Z",
+      "size": 10091315,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 54,
+        "contrast": 54,
+        "shadowRatio": 0.26,
+        "highlightRatio": 0.41
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_140",
+      "title": "image 140",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:55.141Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_140.png",
+      "thumbnailUrl": "/thumbnails/image_140.webp",
+      "thumbHash": "2729061604896e17859b7882799a718f95990c64a940a6",
+      "width": 1440,
+      "height": 1799,
+      "aspectRatio": 0.8004446914952752,
+      "s3Key": "red book/image_140.png",
+      "lastModified": "2025-07-27T02:55:35.958Z",
+      "size": 3576830,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 64,
+        "contrast": 41,
+        "shadowRatio": 0.1,
+        "highlightRatio": 0.56
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_134",
+      "title": "image 134",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:54.953Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_134.png",
+      "thumbnailUrl": "/thumbnails/image_134.webp",
+      "thumbHash": "9e18060c80d0ca767e5d86a55a596fce846209",
+      "width": 1080,
+      "height": 622,
+      "aspectRatio": 1.7363344051446945,
+      "s3Key": "red book/image_134.png",
+      "lastModified": "2025-07-27T02:55:07.457Z",
+      "size": 721739,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 48,
+        "contrast": 32,
+        "shadowRatio": 0.22,
+        "highlightRatio": 0.15
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_115",
+      "title": "image 115",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:54.925Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_115.png",
+      "thumbnailUrl": "/thumbnails/image_115.webp",
+      "thumbHash": "67f80915025938a0a548ab7777745749a4774f79f7",
+      "width": 1920,
+      "height": 2559,
+      "aspectRatio": 0.7502930832356389,
+      "s3Key": "red book/image_115.png",
+      "lastModified": "2025-07-27T02:54:26.092Z",
+      "size": 7485449,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 64,
+        "contrast": 38,
+        "shadowRatio": 0.09,
+        "highlightRatio": 0.53
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_132",
+      "title": "image 132",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:54.883Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_132.png",
+      "thumbnailUrl": "/thumbnails/image_132.webp",
+      "thumbHash": "e528060f02ffb3b4732d589297588a789a76485008067b04",
+      "width": 1080,
+      "height": 1080,
+      "aspectRatio": 1,
+      "s3Key": "red book/image_132.png",
+      "lastModified": "2025-07-27T02:55:02.761Z",
+      "size": 1512181,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 61,
+        "contrast": 41,
+        "shadowRatio": 0.08,
+        "highlightRatio": 0.43
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_116",
+      "title": "image 116",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:54.612Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_116.png",
+      "thumbnailUrl": "/thumbnails/image_116.webp",
+      "thumbHash": "e6280e0d00777a8f68a876678886988795bf0cc85d",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_116.png",
+      "lastModified": "2025-07-27T02:54:24.571Z",
+      "size": 6674058,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 62,
+        "contrast": 40,
+        "shadowRatio": 0.08,
+        "highlightRatio": 0.55
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_131",
+      "title": "image 131",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:54.580Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_131.png",
+      "thumbnailUrl": "/thumbnails/image_131.webp",
+      "thumbHash": "2739060e02798e1865aa79726899718fa5990d64ca40a6",
+      "width": 1440,
+      "height": 1800,
+      "aspectRatio": 0.8,
+      "s3Key": "red book/image_131.png",
+      "lastModified": "2025-07-27T02:55:01.874Z",
+      "size": 3691635,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 64,
+        "contrast": 43,
+        "shadowRatio": 0.1,
+        "highlightRatio": 0.55
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_118",
+      "title": "image 118",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:54.566Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_118.png",
+      "thumbnailUrl": "/thumbnails/image_118.webp",
+      "thumbHash": "65080a0d02c8487f6b956b67777b57a85f53f42233",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_118.png",
+      "lastModified": "2025-07-27T02:54:26.491Z",
+      "size": 5776060,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 59,
+        "contrast": 48,
+        "shadowRatio": 0.14,
+        "highlightRatio": 0.48
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_137",
+      "title": "image 137",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:54.541Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_137.png",
+      "thumbnailUrl": "/thumbnails/image_137.webp",
+      "thumbHash": "34080a0b02c6754a878f8da8177f77f077",
+      "width": 864,
+      "height": 1920,
+      "aspectRatio": 0.45,
+      "s3Key": "red book/image_137.png",
+      "lastModified": "2025-07-27T02:55:19.454Z",
+      "size": 805498,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "high-key",
+        "brightness": 83,
+        "contrast": 54,
+        "shadowRatio": 0.11,
+        "highlightRatio": 0.78
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_096",
+      "title": "image 096",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:54.426Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_096.png",
+      "thumbnailUrl": "/thumbnails/image_096.webp",
+      "thumbHash": "dc18061d0468808aa0278368bb94ab66988f08c661",
+      "width": 2455,
+      "height": 3276,
+      "aspectRatio": 0.7493894993894994,
+      "s3Key": "red book/image_096.png",
+      "lastModified": "2025-07-27T02:50:53.151Z",
+      "size": 9494757,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 46,
+        "contrast": 46,
+        "shadowRatio": 0.26,
+        "highlightRatio": 0.2
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_113",
+      "title": "image 113",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:54.351Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_113.png",
+      "thumbnailUrl": "/thumbnails/image_113.webp",
+      "thumbHash": "4b080615004aa75087b97976868897977870ea04f2",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_113.png",
+      "lastModified": "2025-07-27T02:54:20.528Z",
+      "size": 5694241,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 18,
+        "contrast": 31,
+        "shadowRatio": 0.84,
+        "highlightRatio": 0.01
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_122",
+      "title": "image 122",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:54.305Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_122.png",
+      "thumbnailUrl": "/thumbnails/image_122.webp",
+      "thumbHash": "dd280a0c02b074859b77596578680634884094",
+      "width": 1440,
+      "height": 2560,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_122.png",
+      "lastModified": "2025-07-27T02:54:31.783Z",
+      "size": 3466540,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 47,
+        "contrast": 45,
+        "shadowRatio": 0.32,
+        "highlightRatio": 0.28
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_108",
+      "title": "image 108",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:54.161Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_108.png",
+      "thumbnailUrl": "/thumbnails/image_108.webp",
+      "thumbHash": "6cf8010d027230acb85a89547678b779c3785f1bf4",
+      "width": 1920,
+      "height": 2559,
+      "aspectRatio": 0.7502930832356389,
+      "s3Key": "red book/image_108.png",
+      "lastModified": "2025-07-27T02:54:14.793Z",
+      "size": 7676680,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 70,
+        "contrast": 15,
+        "shadowRatio": 0,
+        "highlightRatio": 0.75
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_127",
+      "title": "image 127",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:54.048Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_127.png",
+      "thumbnailUrl": "/thumbnails/image_127.webp",
+      "thumbHash": "a1180a0d02e3568f85b75788988898896aa4ef43fa",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_127.png",
+      "lastModified": "2025-07-27T02:54:36.018Z",
+      "size": 952994,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 54,
+        "contrast": 43,
+        "shadowRatio": 0.19,
+        "highlightRatio": 0.29
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_105",
+      "title": "image 105",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:54.002Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_105.png",
+      "thumbnailUrl": "/thumbnails/image_105.webp",
+      "thumbHash": "5d18060d024cb7bc70636748719978972fcb844025",
+      "width": 2828,
+      "height": 3771,
+      "aspectRatio": 0.7499337045876425,
+      "s3Key": "red book/image_105.png",
+      "lastModified": "2025-07-27T02:54:11.181Z",
+      "size": 9336316,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 47,
+        "contrast": 49,
+        "shadowRatio": 0.34,
+        "highlightRatio": 0.24
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_110",
+      "title": "image 110",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:53.959Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_110.png",
+      "thumbnailUrl": "/thumbnails/image_110.webp",
+      "thumbHash": "8b080615002ac56078a87987868797888870ca02b5",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_110.png",
+      "lastModified": "2025-07-27T02:54:16.831Z",
+      "size": 6088676,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 19,
+        "contrast": 32,
+        "shadowRatio": 0.83,
+        "highlightRatio": 0.01
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_098",
+      "title": "image 098",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:53.908Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_098.png",
+      "thumbnailUrl": "/thumbnails/image_098.webp",
+      "thumbHash": "d9280a0d025088ab99e6b6a74697489804827a50aa",
+      "width": 2160,
+      "height": 2982,
+      "aspectRatio": 0.7243460764587525,
+      "s3Key": "red book/image_098.png",
+      "lastModified": "2025-07-27T02:51:04.391Z",
+      "size": 9398796,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 40,
+        "contrast": 48,
+        "shadowRatio": 0.42,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_117",
+      "title": "image 117",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:53.852Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_117.png",
+      "thumbnailUrl": "/thumbnails/image_117.webp",
+      "thumbHash": "6208060c0266f57bb65872a857e70573773068",
+      "width": 1213,
+      "height": 2191,
+      "aspectRatio": 0.553628480146052,
+      "s3Key": "red book/image_117.png",
+      "lastModified": "2025-07-27T02:54:30.100Z",
+      "size": 3363614,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 54,
+        "contrast": 42,
+        "shadowRatio": 0.16,
+        "highlightRatio": 0.32
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_091",
+      "title": "image 091",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:53.801Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_091.png",
+      "thumbnailUrl": "/thumbnails/image_091.webp",
+      "thumbHash": "9c280a0d0275879f8865758866854787af1af59775",
+      "width": 2160,
+      "height": 2972,
+      "aspectRatio": 0.7267833109017496,
+      "s3Key": "red book/image_091.png",
+      "lastModified": "2025-07-27T02:50:37.618Z",
+      "size": 10782610,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 45,
+        "contrast": 51,
+        "shadowRatio": 0.36,
+        "highlightRatio": 0.25
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_101",
+      "title": "image 101",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:53.682Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_101.png",
+      "thumbnailUrl": "/thumbnails/image_101.webp",
+      "thumbHash": "9b280e0d0485778377086a67788b98871cc07f0858",
+      "width": 1906,
+      "height": 2560,
+      "aspectRatio": 0.74453125,
+      "s3Key": "red book/image_101.png",
+      "lastModified": "2025-07-27T02:54:03.525Z",
+      "size": 6131685,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 44,
+        "contrast": 47,
+        "shadowRatio": 0.37,
+        "highlightRatio": 0.22
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_100",
+      "title": "image 100",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:53.662Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_100.png",
+      "thumbnailUrl": "/thumbnails/image_100.webp",
+      "thumbHash": "96180a1502b2887078276b97778b78777f64f81886",
+      "width": 1912,
+      "height": 2560,
+      "aspectRatio": 0.746875,
+      "s3Key": "red book/image_100.png",
+      "lastModified": "2025-07-27T02:51:03.346Z",
+      "size": 6799893,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 36,
+        "contrast": 44,
+        "shadowRatio": 0.48,
+        "highlightRatio": 0.14
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_123",
+      "title": "image 123",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:53.569Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_123.png",
+      "thumbnailUrl": "/thumbnails/image_123.webp",
+      "thumbHash": "98070a1d02f3c66d877769d8678897970877965057",
+      "width": 707,
+      "height": 1082,
+      "aspectRatio": 0.6534195933456562,
+      "s3Key": "red book/image_123.png",
+      "lastModified": "2025-07-27T02:54:31.322Z",
+      "size": 1120883,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 37,
+        "contrast": 48,
+        "shadowRatio": 0.48,
+        "highlightRatio": 0.14
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_111",
+      "title": "image 111",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:53.394Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_111.png",
+      "thumbnailUrl": "/thumbnails/image_111.webp",
+      "thumbHash": "2629060e02986d08859b59a17987837da5980d53b940a6",
+      "width": 1440,
+      "height": 1800,
+      "aspectRatio": 0.8,
+      "s3Key": "red book/image_111.png",
+      "lastModified": "2025-07-27T02:54:16.727Z",
+      "size": 3658237,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 62,
+        "contrast": 43,
+        "shadowRatio": 0.11,
+        "highlightRatio": 0.51
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_102",
+      "title": "image 102",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:53.378Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_102.png",
+      "thumbnailUrl": "/thumbnails/image_102.webp",
+      "thumbHash": "6b080a2704f856887989867b859757787887790647568003",
+      "width": 2448,
+      "height": 2448,
+      "aspectRatio": 1,
+      "s3Key": "red book/image_102.png",
+      "lastModified": "2025-07-27T02:54:06.463Z",
+      "size": 5203660,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 69,
+        "contrast": 38,
+        "shadowRatio": 0.1,
+        "highlightRatio": 0.76
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_104",
+      "title": "image 104",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:53.125Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_104.png",
+      "thumbnailUrl": "/thumbnails/image_104.webp",
+      "thumbHash": "24f8050d00b93a3f4f9b47db29757ba9e8870fac98",
+      "width": 3776,
+      "height": 5120,
+      "aspectRatio": 0.7375,
+      "s3Key": "red book/image_104.png",
+      "lastModified": "2025-07-27T02:54:08.356Z",
+      "size": 9894780,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 58,
+        "contrast": 48,
+        "shadowRatio": 0.2,
+        "highlightRatio": 0.4
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_114",
+      "title": "image 114",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:53.105Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_114.png",
+      "thumbnailUrl": "/thumbnails/image_114.webp",
+      "thumbHash": "58190a258220887683967aa566a978776094079296",
+      "width": 1080,
+      "height": 790,
+      "aspectRatio": 1.3670886075949367,
+      "s3Key": "red book/image_114.png",
+      "lastModified": "2025-07-27T02:54:18.894Z",
+      "size": 1001191,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 42,
+        "contrast": 42,
+        "shadowRatio": 0.37,
+        "highlightRatio": 0.06
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_097",
+      "title": "image 097",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:53.049Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_097.png",
+      "thumbnailUrl": "/thumbnails/image_097.webp",
+      "thumbHash": "e528160d026fa67a77868698877988877a8b4f29fb",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_097.png",
+      "lastModified": "2025-07-27T02:52:14.201Z",
+      "size": 8424823,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 61,
+        "contrast": 62,
+        "shadowRatio": 0.28,
+        "highlightRatio": 0.58
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_119",
+      "title": "image 119",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:52.991Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_119.png",
+      "thumbnailUrl": "/thumbnails/image_119.webp",
+      "thumbHash": "90180a0d02e1c96f8a87aa5986686988a47f56f648",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_119.png",
+      "lastModified": "2025-07-27T02:54:25.653Z",
+      "size": 1143420,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 26,
+        "contrast": 50,
+        "shadowRatio": 0.6,
+        "highlightRatio": 0.08
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_082",
+      "title": "image 082",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:52.923Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_082.png",
+      "thumbnailUrl": "/thumbnails/image_082.webp",
+      "thumbHash": "54180605023eaacdafb3b7a85469788908897b5088",
+      "width": 2796,
+      "height": 3957,
+      "aspectRatio": 0.7065959059893859,
+      "s3Key": "red book/image_082.png",
+      "lastModified": "2025-07-27T02:50:06.266Z",
+      "size": 12672371,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 32,
+        "contrast": 49,
+        "shadowRatio": 0.63,
+        "highlightRatio": 0.15
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_103",
+      "title": "image 103",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:52.911Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_103.png",
+      "thumbnailUrl": "/thumbnails/image_103.webp",
+      "thumbHash": "992806150470aaab8de7f565748226463f2cf6c153",
+      "width": 1754,
+      "height": 2560,
+      "aspectRatio": 0.68515625,
+      "s3Key": "red book/image_103.png",
+      "lastModified": "2025-07-27T02:54:07.741Z",
+      "size": 7410156,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 40,
+        "contrast": 45,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_109",
+      "title": "image 109",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:52.904Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_109.png",
+      "thumbnailUrl": "/thumbnails/image_109.webp",
+      "thumbHash": "e4280e1c06d069767777789888870985a75087",
+      "width": 1440,
+      "height": 2560,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_109.png",
+      "lastModified": "2025-07-27T02:54:13.354Z",
+      "size": 3898364,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 59,
+        "contrast": 56,
+        "shadowRatio": 0.3,
+        "highlightRatio": 0.42
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_092",
+      "title": "image 092",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:52.871Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_092.png",
+      "thumbnailUrl": "/thumbnails/image_092.webp",
+      "thumbHash": "e4180e0d00777a8f7797776677869887a59f1af72b",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_092.png",
+      "lastModified": "2025-07-27T02:50:36.153Z",
+      "size": 6635068,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 59,
+        "contrast": 39,
+        "shadowRatio": 0.09,
+        "highlightRatio": 0.5
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_088",
+      "title": "image 088",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:52.426Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_088.png",
+      "thumbnailUrl": "/thumbnails/image_088.webp",
+      "thumbHash": "68180a0d02a4bc9b880888d6978678783c89af42f9",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_088.png",
+      "lastModified": "2025-07-27T02:50:23.091Z",
+      "size": 3487274,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 64,
+        "contrast": 43,
+        "shadowRatio": 0.06,
+        "highlightRatio": 0.41
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_090",
+      "title": "image 090",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:52.389Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_090.png",
+      "thumbnailUrl": "/thumbnails/image_090.webp",
+      "thumbHash": "a528120d029fa58a77a6768987788878789b3f04eb",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_090.png",
+      "lastModified": "2025-07-27T02:50:25.151Z",
+      "size": 7991359,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 59,
+        "contrast": 63,
+        "shadowRatio": 0.29,
+        "highlightRatio": 0.51
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_071",
+      "title": "image 071",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:52.383Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_071.png",
+      "thumbnailUrl": "/thumbnails/image_071.webp",
+      "thumbHash": "20f8050d02ba827f355a589aa7767857f198089da9",
+      "width": 3840,
+      "height": 5120,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_071.png",
+      "lastModified": "2025-07-27T02:49:18.848Z",
+      "size": 14478178,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 51,
+        "contrast": 39,
+        "shadowRatio": 0.2,
+        "highlightRatio": 0.18
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_085",
+      "title": "image 085",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:52.349Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_085.png",
+      "thumbnailUrl": "/thumbnails/image_085.webp",
+      "thumbHash": "95180a1502b2877078276b97778b88777f53f81885",
+      "width": 1912,
+      "height": 2560,
+      "aspectRatio": 0.746875,
+      "s3Key": "red book/image_085.png",
+      "lastModified": "2025-07-27T02:50:24.425Z",
+      "size": 6725888,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 34,
+        "contrast": 43,
+        "shadowRatio": 0.52,
+        "highlightRatio": 0.11
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_107",
+      "title": "image 107",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:52.305Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_107.png",
+      "thumbnailUrl": "/thumbnails/image_107.webp",
+      "thumbHash": "9418060d02f4b4a3ad58869863857887b6b046095c",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_107.png",
+      "lastModified": "2025-07-27T02:54:10.304Z",
+      "size": 866177,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 32,
+        "contrast": 38,
+        "shadowRatio": 0.51,
+        "highlightRatio": 0.01
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_112",
+      "title": "image 112",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:52.178Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_112.png",
+      "thumbnailUrl": "/thumbnails/image_112.webp",
+      "thumbHash": "26080a0d00c2067f77c6397687839a68ab70ed0af7",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_112.png",
+      "lastModified": "2025-07-27T02:54:15.889Z",
+      "size": 946957,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 61,
+        "contrast": 49,
+        "shadowRatio": 0.13,
+        "highlightRatio": 0.51
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_094",
+      "title": "image 094",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:52.141Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_094.png",
+      "thumbnailUrl": "/thumbnails/image_094.webp",
+      "thumbHash": "a1080a150272825086687bc99b9a89778460570687",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_094.png",
+      "lastModified": "2025-07-27T02:50:43.610Z",
+      "size": 7190351,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 54,
+        "contrast": 49,
+        "shadowRatio": 0.19,
+        "highlightRatio": 0.35
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_089",
+      "title": "image 089",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:51.872Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_089.png",
+      "thumbnailUrl": "/thumbnails/image_089.webp",
+      "thumbHash": "8b080a1d025a866098787897777768976660965053",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_089.png",
+      "lastModified": "2025-07-27T02:50:23.077Z",
+      "size": 5315985,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 20,
+        "contrast": 37,
+        "shadowRatio": 0.77,
+        "highlightRatio": 0.02
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_099",
+      "title": "image 099",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:51.837Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_099.png",
+      "thumbnailUrl": "/thumbnails/image_099.webp",
+      "thumbHash": "ade7092506bba28f87b7659a778768686780660668",
+      "width": 1717,
+      "height": 2291,
+      "aspectRatio": 0.7494543867306853,
+      "s3Key": "red book/image_099.png",
+      "lastModified": "2025-07-27T02:50:53.493Z",
+      "size": 3537544,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "high-key",
+        "brightness": 72,
+        "contrast": 34,
+        "shadowRatio": 0.06,
+        "highlightRatio": 0.74
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_079",
+      "title": "image 079",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:51.751Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_079.png",
+      "thumbnailUrl": "/thumbnails/image_079.webp",
+      "thumbHash": "a0080a150280834096776bca7ba877777460580687",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_079.png",
+      "lastModified": "2025-07-27T02:49:45.118Z",
+      "size": 6961261,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 52,
+        "contrast": 51,
+        "shadowRatio": 0.24,
+        "highlightRatio": 0.34
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_083",
+      "title": "image 083",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:51.695Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_083.png",
+      "thumbnailUrl": "/thumbnails/image_083.webp",
+      "thumbHash": "a6181215028fa58a8796869977798787b8883f18fa",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_083.png",
+      "lastModified": "2025-07-27T02:50:00.987Z",
+      "size": 8336696,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 61,
+        "contrast": 61,
+        "shadowRatio": 0.24,
+        "highlightRatio": 0.52
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_106",
+      "title": "image 106",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:51.383Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_106.png",
+      "thumbnailUrl": "/thumbnails/image_106.webp",
+      "thumbHash": "5f180a0c02bfb59546a77a567879fda6792f8b",
+      "width": 720,
+      "height": 1280,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_106.png",
+      "lastModified": "2025-07-27T02:54:08.256Z",
+      "size": 993327,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 50,
+        "contrast": 52,
+        "shadowRatio": 0.31,
+        "highlightRatio": 0.34
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_093",
+      "title": "image 093",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:51.364Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_093.png",
+      "thumbnailUrl": "/thumbnails/image_093.webp",
+      "thumbHash": "1e08060d02f4159f866498d848734aa7f777994fb6",
+      "width": 1080,
+      "height": 1673,
+      "aspectRatio": 0.6455469216975493,
+      "s3Key": "red book/image_093.png",
+      "lastModified": "2025-07-27T02:50:28.367Z",
+      "size": 1734524,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 47,
+        "contrast": 47,
+        "shadowRatio": 0.29,
+        "highlightRatio": 0.25
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_087",
+      "title": "image 087",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:51.275Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_087.png",
+      "thumbnailUrl": "/thumbnails/image_087.webp",
+      "thumbHash": "61080e0d02f977749d499897776c9667b3a01a0bbb",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_087.png",
+      "lastModified": "2025-07-27T02:50:09.556Z",
+      "size": 1233440,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 54,
+        "contrast": 53,
+        "shadowRatio": 0.22,
+        "highlightRatio": 0.39
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_074",
+      "title": "image 074",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:51.231Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_074.png",
+      "thumbnailUrl": "/thumbnails/image_074.webp",
+      "thumbHash": "9728060d026076adaae6b28a47b659760483797099",
+      "width": 2160,
+      "height": 2962,
+      "aspectRatio": 0.7292370020256583,
+      "s3Key": "red book/image_074.png",
+      "lastModified": "2025-07-27T02:49:23.899Z",
+      "size": 9901729,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 37,
+        "contrast": 48,
+        "shadowRatio": 0.49,
+        "highlightRatio": 0.14
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_073",
+      "title": "image 073",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:51.199Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_073.png",
+      "thumbnailUrl": "/thumbnails/image_073.webp",
+      "thumbHash": "e528120d027fb58a7796869977798888898a3f28fb",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_073.png",
+      "lastModified": "2025-07-27T02:49:22.600Z",
+      "size": 8540311,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 61,
+        "contrast": 62,
+        "shadowRatio": 0.27,
+        "highlightRatio": 0.57
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_060",
+      "title": "image 060",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:51.192Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_060.png",
+      "thumbnailUrl": "/thumbnails/image_060.webp",
+      "thumbHash": "a6181615027fa57a7796868877798887aa882f0afa",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_060.png",
+      "lastModified": "2025-07-27T02:49:00.823Z",
+      "size": 8549976,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 61,
+        "contrast": 62,
+        "shadowRatio": 0.26,
+        "highlightRatio": 0.55
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_067",
+      "title": "image 067",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.945Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_067.png",
+      "thumbnailUrl": "/thumbnails/image_067.webp",
+      "thumbHash": "96280a1502029a6e9985847967785787cb5ffafaa6",
+      "width": 2159,
+      "height": 3004,
+      "aspectRatio": 0.7187083888149135,
+      "s3Key": "red book/image_067.png",
+      "lastModified": "2025-07-27T02:49:11.094Z",
+      "size": 10310565,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 35,
+        "contrast": 42,
+        "shadowRatio": 0.56,
+        "highlightRatio": 0.12
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_095",
+      "title": "image 095",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.931Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_095.png",
+      "thumbnailUrl": "/thumbnails/image_095.webp",
+      "thumbHash": "62180a1602fc0ac98a58867698837b6ba678fa68fb6ff2",
+      "width": 1080,
+      "height": 1314,
+      "aspectRatio": 0.821917808219178,
+      "s3Key": "red book/image_095.png",
+      "lastModified": "2025-07-27T02:50:40.169Z",
+      "size": 1449395,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 55,
+        "contrast": 52,
+        "shadowRatio": 0.23,
+        "highlightRatio": 0.38
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_081",
+      "title": "image 081",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.903Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_081.png",
+      "thumbnailUrl": "/thumbnails/image_081.webp",
+      "thumbHash": "e5180e0d0077898f7897776777869898969f3bf52a",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_081.png",
+      "lastModified": "2025-07-27T02:49:57.322Z",
+      "size": 6491588,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 60,
+        "contrast": 38,
+        "shadowRatio": 0.07,
+        "highlightRatio": 0.52
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_055",
+      "title": "image 055",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.679Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_055.png",
+      "thumbnailUrl": "/thumbnails/image_055.webp",
+      "thumbHash": "20f8050d02bda6af8887668997756999f68a69bf98",
+      "width": 2740,
+      "height": 3652,
+      "aspectRatio": 0.7502738225629791,
+      "s3Key": "red book/image_055.png",
+      "lastModified": "2025-07-27T02:48:52.910Z",
+      "size": 10728772,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 50,
+        "contrast": 32,
+        "shadowRatio": 0.13,
+        "highlightRatio": 0.1
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_080",
+      "title": "image 080",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.672Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_080.png",
+      "thumbnailUrl": "/thumbnails/image_080.webp",
+      "thumbHash": "62080a0c02f4c879874689978857f2682b0cc3",
+      "width": 1080,
+      "height": 1920,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_080.png",
+      "lastModified": "2025-07-27T02:49:42.613Z",
+      "size": 1866042,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 54,
+        "contrast": 49,
+        "shadowRatio": 0.21,
+        "highlightRatio": 0.4
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_068",
+      "title": "image 068",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.476Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_068.png",
+      "thumbnailUrl": "/thumbnails/image_068.webp",
+      "thumbHash": "a628160d026fa67a77968698777988786f7b2e037a",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_068.png",
+      "lastModified": "2025-07-27T02:50:22.179Z",
+      "size": 8359714,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 62,
+        "contrast": 62,
+        "shadowRatio": 0.25,
+        "highlightRatio": 0.59
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_084",
+      "title": "image 084",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.456Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_084.png",
+      "thumbnailUrl": "/thumbnails/image_084.webp",
+      "thumbHash": "e0280a1c04e059766667689888870785875088",
+      "width": 1080,
+      "height": 1920,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_084.png",
+      "lastModified": "2025-07-27T02:49:55.051Z",
+      "size": 1540836,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 51,
+        "contrast": 50,
+        "shadowRatio": 0.33,
+        "highlightRatio": 0.31
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_066",
+      "title": "image 066",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.446Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_066.png",
+      "thumbnailUrl": "/thumbnails/image_066.webp",
+      "thumbHash": "5b180a0d02cf287f87697867788597a7506d2f31f7",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_066.png",
+      "lastModified": "2025-07-27T02:49:08.286Z",
+      "size": 7760925,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 43,
+        "contrast": 53,
+        "shadowRatio": 0.44,
+        "highlightRatio": 0.27
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_086",
+      "title": "image 086",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.423Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_086.png",
+      "thumbnailUrl": "/thumbnails/image_086.webp",
+      "thumbHash": "24080a0d02e74a7b77684a08a9908a686685bf69f8",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_086.png",
+      "lastModified": "2025-07-27T02:50:04.767Z",
+      "size": 864201,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 57,
+        "contrast": 46,
+        "shadowRatio": 0.18,
+        "highlightRatio": 0.43
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_075",
+      "title": "image 075",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.300Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_075.png",
+      "thumbnailUrl": "/thumbnails/image_075.webp",
+      "thumbHash": "4f180a0d0056d66f8d88b68b68889757f49c4e5def",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_075.png",
+      "lastModified": "2025-07-27T02:49:21.257Z",
+      "size": 7015699,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 24,
+        "contrast": 49,
+        "shadowRatio": 0.74,
+        "highlightRatio": 0.1
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_076",
+      "title": "image 076",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.232Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_076.png",
+      "thumbnailUrl": "/thumbnails/image_076.webp",
+      "thumbHash": "5f08060d00e87f8aad467c5775988967876ff7f722",
+      "width": 1592,
+      "height": 2123,
+      "aspectRatio": 0.7498822421102214,
+      "s3Key": "red book/image_076.png",
+      "lastModified": "2025-07-27T02:49:42.176Z",
+      "size": 4360984,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 50,
+        "contrast": 51,
+        "shadowRatio": 0.32,
+        "highlightRatio": 0.34
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_041",
+      "title": "image 041",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.219Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_041.png",
+      "thumbnailUrl": "/thumbnails/image_041.webp",
+      "thumbHash": "9c180e0d0259bd53660878978696a8878b60e13707",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_041.png",
+      "lastModified": "2025-07-27T02:48:33.578Z",
+      "size": 1926525,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 45,
+        "contrast": 57,
+        "shadowRatio": 0.34,
+        "highlightRatio": 0.24
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_058",
+      "title": "image 058",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.101Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_058.png",
+      "thumbnailUrl": "/thumbnails/image_058.webp",
+      "thumbHash": "20f8050d028cc7af7856878898777888f68a69af98",
+      "width": 2699,
+      "height": 3599,
+      "aspectRatio": 0.7499305362600722,
+      "s3Key": "red book/image_058.png",
+      "lastModified": "2025-07-27T02:48:59.303Z",
+      "size": 10856228,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 51,
+        "contrast": 30,
+        "shadowRatio": 0.1,
+        "highlightRatio": 0.1
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_077",
+      "title": "image 077",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:50.050Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_077.png",
+      "thumbnailUrl": "/thumbnails/image_077.webp",
+      "thumbHash": "a0180e0502fa747b786969778777a868ef6efaa3b6",
+      "width": 1440,
+      "height": 1920,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_077.png",
+      "lastModified": "2025-07-27T02:49:36.602Z",
+      "size": 3284413,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 52,
+        "contrast": 58,
+        "shadowRatio": 0.3,
+        "highlightRatio": 0.41
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_070",
+      "title": "image 070",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:49.890Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_070.png",
+      "thumbnailUrl": "/thumbnails/image_070.webp",
+      "thumbHash": "2b080a2706f727b87d87878a859a7888877a780757578005",
+      "width": 2448,
+      "height": 2448,
+      "aspectRatio": 1,
+      "s3Key": "red book/image_070.png",
+      "lastModified": "2025-07-27T02:49:13.550Z",
+      "size": 5015509,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 69,
+        "contrast": 35,
+        "shadowRatio": 0.08,
+        "highlightRatio": 0.76
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_059",
+      "title": "image 059",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:49.816Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_059.png",
+      "thumbnailUrl": "/thumbnails/image_059.webp",
+      "thumbHash": "9e180a0d00e1abb589ba86f5847e9589d63c3ffbb3",
+      "width": 2082,
+      "height": 2832,
+      "aspectRatio": 0.7351694915254238,
+      "s3Key": "red book/image_059.png",
+      "lastModified": "2025-07-27T02:48:58.773Z",
+      "size": 6296045,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 48,
+        "contrast": 48,
+        "shadowRatio": 0.3,
+        "highlightRatio": 0.31
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_078",
+      "title": "image 078",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:49.781Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_078.png",
+      "thumbnailUrl": "/thumbnails/image_078.webp",
+      "thumbHash": "60180a0c02d3f45979778a469757f58e9d7df8",
+      "width": 898,
+      "height": 1720,
+      "aspectRatio": 0.522093023255814,
+      "s3Key": "red book/image_078.png",
+      "lastModified": "2025-07-27T02:49:34.413Z",
+      "size": 1407247,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 51,
+        "contrast": 46,
+        "shadowRatio": 0.24,
+        "highlightRatio": 0.35
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_047",
+      "title": "image 047",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:49.778Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_047.png",
+      "thumbnailUrl": "/thumbnails/image_047.webp",
+      "thumbHash": "5f080a0d006f673e86a97747a767a687597f38d097",
+      "width": 3840,
+      "height": 5120,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_047.png",
+      "lastModified": "2025-07-27T02:48:43.381Z",
+      "size": 11046724,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 49,
+        "contrast": 48,
+        "shadowRatio": 0.24,
+        "highlightRatio": 0.2
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_064",
+      "title": "image 064",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:49.485Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_064.png",
+      "thumbnailUrl": "/thumbnails/image_064.webp",
+      "thumbHash": "a5180e0d02faa25b867b6949a76877689d8fe9f3aa",
+      "width": 1440,
+      "height": 1920,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_064.png",
+      "lastModified": "2025-07-27T02:49:03.457Z",
+      "size": 3580086,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 61,
+        "contrast": 62,
+        "shadowRatio": 0.22,
+        "highlightRatio": 0.51
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_061",
+      "title": "image 061",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:49.467Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_061.png",
+      "thumbnailUrl": "/thumbnails/image_061.webp",
+      "thumbHash": "a0080e0d00bf566579a8657976877778fd81880a89",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_061.png",
+      "lastModified": "2025-07-27T02:49:04.960Z",
+      "size": 5094466,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 53,
+        "contrast": 54,
+        "shadowRatio": 0.26,
+        "highlightRatio": 0.38
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_054",
+      "title": "image 054",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:49.465Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_054.png",
+      "thumbnailUrl": "/thumbnails/image_054.webp",
+      "thumbHash": "98280615048268ab9dd8e467768306653f2cf7c264",
+      "width": 2159,
+      "height": 3044,
+      "aspectRatio": 0.7092641261498029,
+      "s3Key": "red book/image_054.png",
+      "lastModified": "2025-07-27T02:48:59.561Z",
+      "size": 9210453,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 39,
+        "contrast": 44,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.14
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_020",
+      "title": "image 020",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:49.420Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_020.png",
+      "thumbnailUrl": "/thumbnails/image_020.webp",
+      "thumbHash": "21f8090d002e80a46539877897656967065b12e063",
+      "width": 2876,
+      "height": 3840,
+      "aspectRatio": 0.7489583333333333,
+      "s3Key": "red book/image_020.png",
+      "lastModified": "2025-07-27T02:47:55.143Z",
+      "size": 11585824,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 53,
+        "contrast": 47,
+        "shadowRatio": 0.25,
+        "highlightRatio": 0.36
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_072",
+      "title": "image 072",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:49.414Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_072.png",
+      "thumbnailUrl": "/thumbnails/image_072.webp",
+      "thumbHash": "5f390e0d00f8467b86977798787888786f96fb28db",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_072.png",
+      "lastModified": "2025-07-27T02:49:14.285Z",
+      "size": 741435,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 51,
+        "contrast": 37,
+        "shadowRatio": 0.22,
+        "highlightRatio": 0.14
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_053",
+      "title": "image 053",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:49.279Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_053.png",
+      "thumbnailUrl": "/thumbnails/image_053.webp",
+      "thumbHash": "a428120d029fa48b87a6768987788878679c2f03eb",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_053.png",
+      "lastModified": "2025-07-27T02:48:49.938Z",
+      "size": 8192233,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 59,
+        "contrast": 62,
+        "shadowRatio": 0.28,
+        "highlightRatio": 0.49
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_037",
+      "title": "image 037",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:48.917Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_037.png",
+      "thumbnailUrl": "/thumbnails/image_037.webp",
+      "thumbHash": "60080605005b3fad8b76687a2b667b8847066d8051",
+      "width": 3812,
+      "height": 5120,
+      "aspectRatio": 0.74453125,
+      "s3Key": "red book/image_037.png",
+      "lastModified": "2025-07-27T02:48:30.168Z",
+      "size": 10684290,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 52,
+        "contrast": 47,
+        "shadowRatio": 0.21,
+        "highlightRatio": 0.26
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_057",
+      "title": "image 057",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:48.890Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_057.png",
+      "thumbnailUrl": "/thumbnails/image_057.webp",
+      "thumbHash": "69080a0d02b855be5a0578a97664778908748c10c6",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_057.png",
+      "lastModified": "2025-07-27T02:48:53.939Z",
+      "size": 3306835,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 66,
+        "contrast": 45,
+        "shadowRatio": 0.08,
+        "highlightRatio": 0.47
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_069",
+      "title": "image 069",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:48.846Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_069.png",
+      "thumbnailUrl": "/thumbnails/image_069.webp",
+      "thumbHash": "5e390e0d00f6598a86877887787887788f95eb1afb",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_069.png",
+      "lastModified": "2025-07-27T02:49:10.961Z",
+      "size": 793478,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 51,
+        "contrast": 37,
+        "shadowRatio": 0.23,
+        "highlightRatio": 0.13
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_034",
+      "title": "image 034",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:48.840Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_034.png",
+      "thumbnailUrl": "/thumbnails/image_034.webp",
+      "thumbHash": "57180e0d02fbd99998877757978767780039088085",
+      "width": 3024,
+      "height": 4032,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_034.png",
+      "lastModified": "2025-07-27T02:48:13.865Z",
+      "size": 12776816,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 37,
+        "contrast": 54,
+        "shadowRatio": 0.52,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_016",
+      "title": "image 016",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:48.742Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_016.png",
+      "thumbnailUrl": "/thumbnails/image_016.webp",
+      "thumbHash": "5a180e0d020ec7699899875797888868b5634f0bd7",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_016.png",
+      "lastModified": "2025-07-27T02:47:50.519Z",
+      "size": 8323036,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 59,
+        "shadowRatio": 0.51,
+        "highlightRatio": 0.3
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_062",
+      "title": "image 062",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:48.723Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_062.png",
+      "thumbnailUrl": "/thumbnails/image_062.webp",
+      "thumbHash": "5f08060d00f97f9c9c648e5775969968776fb8f665",
+      "width": 1568,
+      "height": 2090,
+      "aspectRatio": 0.7502392344497608,
+      "s3Key": "red book/image_062.png",
+      "lastModified": "2025-07-27T02:49:02.997Z",
+      "size": 4024518,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 50,
+        "contrast": 52,
+        "shadowRatio": 0.32,
+        "highlightRatio": 0.35
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_049",
+      "title": "image 049",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:48.706Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_049.png",
+      "thumbnailUrl": "/thumbnails/image_049.webp",
+      "thumbHash": "20080a0400c5a556f67976b557a8a24f8c8017",
+      "width": 1471,
+      "height": 2516,
+      "aspectRatio": 0.584658187599364,
+      "s3Key": "red book/image_049.png",
+      "lastModified": "2025-07-27T02:48:44.123Z",
+      "size": 4722703,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 51,
+        "contrast": 51,
+        "shadowRatio": 0.25,
+        "highlightRatio": 0.34
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_051",
+      "title": "image 051",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:48.445Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_051.png",
+      "thumbnailUrl": "/thumbnails/image_051.webp",
+      "thumbHash": "a2080a0d00af047867ca375b89757866af56f82773",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_051.png",
+      "lastModified": "2025-07-27T02:48:47.850Z",
+      "size": 6159499,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 55,
+        "contrast": 56,
+        "shadowRatio": 0.28,
+        "highlightRatio": 0.47
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_050",
+      "title": "image 050",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:48.421Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_050.png",
+      "thumbnailUrl": "/thumbnails/image_050.webp",
+      "thumbHash": "1e080a14045aeaa8f9478b665986f284145f38",
+      "width": 1071,
+      "height": 2074,
+      "aspectRatio": 0.5163934426229508,
+      "s3Key": "red book/image_050.png",
+      "lastModified": "2025-07-27T02:48:43.796Z",
+      "size": 1815729,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 48,
+        "contrast": 57,
+        "shadowRatio": 0.38,
+        "highlightRatio": 0.33
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_056",
+      "title": "image 056",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:48.419Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_056.png",
+      "thumbnailUrl": "/thumbnails/image_056.webp",
+      "thumbHash": "68080a0d02939d9c970689a6879678765b768f23f9",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_056.png",
+      "lastModified": "2025-07-27T02:48:51.614Z",
+      "size": 3550335,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 64,
+        "contrast": 44,
+        "shadowRatio": 0.09,
+        "highlightRatio": 0.47
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_063",
+      "title": "image 063",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:48.408Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_063.png",
+      "thumbnailUrl": "/thumbnails/image_063.webp",
+      "thumbHash": "9e18060c80d0ca767e5d86a55a596fce846209",
+      "width": 1080,
+      "height": 622,
+      "aspectRatio": 1.7363344051446945,
+      "s3Key": "red book/image_063.png",
+      "lastModified": "2025-07-27T02:49:02.852Z",
+      "size": 892355,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 48,
+        "contrast": 32,
+        "shadowRatio": 0.22,
+        "highlightRatio": 0.15
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_065",
+      "title": "image 065",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:48.229Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_065.png",
+      "thumbnailUrl": "/thumbnails/image_065.webp",
+      "thumbHash": "23f8090d003fdaba766887a77873c8576a8fd7f636",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_065.png",
+      "lastModified": "2025-07-27T02:49:05.831Z",
+      "size": 2064711,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 57,
+        "contrast": 49,
+        "shadowRatio": 0.26,
+        "highlightRatio": 0.53
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_046",
+      "title": "image 046",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:48.028Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_046.png",
+      "thumbnailUrl": "/thumbnails/image_046.webp",
+      "thumbHash": "5d180e0d029f9ca879968879776986891904073352",
+      "width": 1080,
+      "height": 1637,
+      "aspectRatio": 0.6597434331093464,
+      "s3Key": "red book/image_046.png",
+      "lastModified": "2025-07-27T02:48:40.055Z",
+      "size": 2144063,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 46,
+        "contrast": 58,
+        "shadowRatio": 0.42,
+        "highlightRatio": 0.3
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_007",
+      "title": "image 007",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:47.920Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_007.png",
+      "thumbnailUrl": "/thumbnails/image_007.webp",
+      "thumbHash": "e1f70505007bfc4f9e58c1a84a8b9577190d1dd072",
+      "width": 3836,
+      "height": 5120,
+      "aspectRatio": 0.74921875,
+      "s3Key": "red book/image_007.png",
+      "lastModified": "2025-07-27T02:47:43.354Z",
+      "size": 8878598,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 52,
+        "contrast": 38,
+        "shadowRatio": 0.16,
+        "highlightRatio": 0.25
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_015",
+      "title": "image 015",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:47.859Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_015.png",
+      "thumbnailUrl": "/thumbnails/image_015.webp",
+      "thumbHash": "6008060d009f732d58db555b87768698877f08b47b",
+      "width": 3840,
+      "height": 5120,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_015.png",
+      "lastModified": "2025-07-27T02:47:48.973Z",
+      "size": 11517769,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 51,
+        "contrast": 51,
+        "shadowRatio": 0.27,
+        "highlightRatio": 0.33
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_040",
+      "title": "image 040",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:47.834Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_040.png",
+      "thumbnailUrl": "/thumbnails/image_040.webp",
+      "thumbHash": "de280e0f0250888a8898689976798858978706a97a60aa08",
+      "width": 1918,
+      "height": 1920,
+      "aspectRatio": 0.9989583333333333,
+      "s3Key": "red book/image_040.png",
+      "lastModified": "2025-07-27T02:48:34.862Z",
+      "size": 5862193,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 48,
+        "contrast": 48,
+        "shadowRatio": 0.25,
+        "highlightRatio": 0.23
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_013",
+      "title": "image 013",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:47.693Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_013.png",
+      "thumbnailUrl": "/thumbnails/image_013.webp",
+      "thumbHash": "dff7050d029f919d5688766869594a9af48947af88",
+      "width": 2821,
+      "height": 3761,
+      "aspectRatio": 0.7500664716830631,
+      "s3Key": "red book/image_013.png",
+      "lastModified": "2025-07-27T02:47:46.804Z",
+      "size": 12031315,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 49,
+        "contrast": 39,
+        "shadowRatio": 0.26,
+        "highlightRatio": 0.16
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_052",
+      "title": "image 052",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:47.678Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_052.png",
+      "thumbnailUrl": "/thumbnails/image_052.webp",
+      "thumbHash": "a818121d04f877867b6778b7687897778580470678",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_052.png",
+      "lastModified": "2025-07-27T02:48:46.528Z",
+      "size": 1473073,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 65,
+        "contrast": 60,
+        "shadowRatio": 0.2,
+        "highlightRatio": 0.63
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_029",
+      "title": "image 029",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:47.493Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_029.png",
+      "thumbnailUrl": "/thumbnails/image_029.webp",
+      "thumbHash": "e128120f0280949689878888786887688777c7a0790c9a08",
+      "width": 1920,
+      "height": 1920,
+      "aspectRatio": 1,
+      "s3Key": "red book/image_029.png",
+      "lastModified": "2025-07-27T02:48:05.610Z",
+      "size": 5269613,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 53,
+        "contrast": 60,
+        "shadowRatio": 0.28,
+        "highlightRatio": 0.34
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_048",
+      "title": "image 048",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:47.364Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_048.png",
+      "thumbnailUrl": "/thumbnails/image_048.webp",
+      "thumbHash": "9e08121d0497788f98977667797688872aa2a0200a",
+      "width": 1080,
+      "height": 1452,
+      "aspectRatio": 0.743801652892562,
+      "s3Key": "red book/image_048.png",
+      "lastModified": "2025-07-27T02:48:42.685Z",
+      "size": 2094664,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 49,
+        "contrast": 53,
+        "shadowRatio": 0.41,
+        "highlightRatio": 0.4
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_035",
+      "title": "image 035",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:47.285Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_035.png",
+      "thumbnailUrl": "/thumbnails/image_035.webp",
+      "thumbHash": "61080a0c02b6b599f55877b357a70596768048",
+      "width": 1297,
+      "height": 2514,
+      "aspectRatio": 0.5159108989657916,
+      "s3Key": "red book/image_035.png",
+      "lastModified": "2025-07-27T02:48:24.298Z",
+      "size": 3818563,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 53,
+        "contrast": 48,
+        "shadowRatio": 0.21,
+        "highlightRatio": 0.33
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_009",
+      "title": "image 009",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:47.196Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_009.png",
+      "thumbnailUrl": "/thumbnails/image_009.webp",
+      "thumbHash": "6908060d02f6a1755a759778898979a824a0078579",
+      "width": 1920,
+      "height": 2559,
+      "aspectRatio": 0.7502930832356389,
+      "s3Key": "red book/image_009.png",
+      "lastModified": "2025-07-27T02:47:40.243Z",
+      "size": 4075337,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 66,
+        "contrast": 39,
+        "shadowRatio": 0.12,
+        "highlightRatio": 0.69
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_043",
+      "title": "image 043",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:47.103Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_043.png",
+      "thumbnailUrl": "/thumbnails/image_043.webp",
+      "thumbHash": "dc280a250806786887c78a87787a6777b076077b77",
+      "width": 1106,
+      "height": 1455,
+      "aspectRatio": 0.7601374570446735,
+      "s3Key": "red book/image_043.png",
+      "lastModified": "2025-07-27T02:48:38.759Z",
+      "size": 2226605,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 45,
+        "contrast": 41,
+        "shadowRatio": 0.26,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_012",
+      "title": "image 012",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:47.051Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_012.png",
+      "thumbnailUrl": "/thumbnails/image_012.webp",
+      "thumbHash": "20f8050d021a979647bb87c8a470b798229f04a66b",
+      "width": 3840,
+      "height": 5120,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_012.png",
+      "lastModified": "2025-07-27T02:47:55.974Z",
+      "size": 10210267,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 51,
+        "contrast": 39,
+        "shadowRatio": 0.17,
+        "highlightRatio": 0.2
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_045",
+      "title": "image 045",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.909Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_045.png",
+      "thumbnailUrl": "/thumbnails/image_045.webp",
+      "thumbHash": "5b18120d0248788078688878876777780d79a18048",
+      "width": 960,
+      "height": 1282,
+      "aspectRatio": 0.748829953198128,
+      "s3Key": "red book/image_045.png",
+      "lastModified": "2025-07-27T02:48:37.469Z",
+      "size": 876031,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 43,
+        "contrast": 52,
+        "shadowRatio": 0.41,
+        "highlightRatio": 0.26
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_033",
+      "title": "image 033",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.876Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_033.png",
+      "thumbnailUrl": "/thumbnails/image_033.webp",
+      "thumbHash": "db280e0f0250b99889788786888778679877089259028807",
+      "width": 1920,
+      "height": 1920,
+      "aspectRatio": 1,
+      "s3Key": "red book/image_033.png",
+      "lastModified": "2025-07-27T02:48:11.953Z",
+      "size": 6525773,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 45,
+        "contrast": 52,
+        "shadowRatio": 0.32,
+        "highlightRatio": 0.24
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_044",
+      "title": "image 044",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.835Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_044.png",
+      "thumbnailUrl": "/thumbnails/image_044.webp",
+      "thumbHash": "9b180e1502bf6876a6579816887698879f86f53b47",
+      "width": 1080,
+      "height": 1380,
+      "aspectRatio": 0.782608695652174,
+      "s3Key": "red book/image_044.png",
+      "lastModified": "2025-07-27T02:48:38.303Z",
+      "size": 1909415,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 44,
+        "contrast": 59,
+        "shadowRatio": 0.41,
+        "highlightRatio": 0.28
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_008",
+      "title": "image 008",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.830Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_008.png",
+      "thumbnailUrl": "/thumbnails/image_008.webp",
+      "thumbHash": "6208060c0295e69bb738769557f80676785078",
+      "width": 1195,
+      "height": 2104,
+      "aspectRatio": 0.5679657794676806,
+      "s3Key": "red book/image_008.png",
+      "lastModified": "2025-07-27T02:47:39.971Z",
+      "size": 3147062,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 54,
+        "contrast": 45,
+        "shadowRatio": 0.19,
+        "highlightRatio": 0.36
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_019",
+      "title": "image 019",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.800Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_019.png",
+      "thumbnailUrl": "/thumbnails/image_019.webp",
+      "thumbHash": "a8180e0d02c55acd6a0578b586857797566c6f92f6",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_019.png",
+      "lastModified": "2025-07-27T02:47:56.898Z",
+      "size": 5286677,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 64,
+        "contrast": 56,
+        "shadowRatio": 0.18,
+        "highlightRatio": 0.53
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_026",
+      "title": "image 026",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.779Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_026.png",
+      "thumbnailUrl": "/thumbnails/image_026.webp",
+      "thumbHash": "df280e0f025067788a77888577777778888707d70c04ab06",
+      "width": 1888,
+      "height": 1888,
+      "aspectRatio": 1,
+      "s3Key": "red book/image_026.png",
+      "lastModified": "2025-07-27T02:48:02.477Z",
+      "size": 5385261,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 50,
+        "contrast": 50,
+        "shadowRatio": 0.25,
+        "highlightRatio": 0.33
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_042",
+      "title": "image 042",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.749Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_042.png",
+      "thumbnailUrl": "/thumbnails/image_042.webp",
+      "thumbHash": "60180a0e043985067999a784b8936766ab98ff8af7ce58",
+      "width": 913,
+      "height": 1084,
+      "aspectRatio": 0.8422509225092251,
+      "s3Key": "red book/image_042.png",
+      "lastModified": "2025-07-27T02:48:34.317Z",
+      "size": 1053412,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 50,
+        "contrast": 56,
+        "shadowRatio": 0.41,
+        "highlightRatio": 0.33
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_030",
+      "title": "image 030",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.665Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_030.png",
+      "thumbnailUrl": "/thumbnails/image_030.webp",
+      "thumbHash": "de280a0f0200789c7998788676797847a788069559028905",
+      "width": 1920,
+      "height": 1920,
+      "aspectRatio": 1,
+      "s3Key": "red book/image_030.png",
+      "lastModified": "2025-07-27T02:48:06.439Z",
+      "size": 6063268,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 49,
+        "contrast": 47,
+        "shadowRatio": 0.21,
+        "highlightRatio": 0.23
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_021",
+      "title": "image 021",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.406Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_021.png",
+      "thumbnailUrl": "/thumbnails/image_021.webp",
+      "thumbHash": "600806040094f57bd47872a668c6869f5b3058",
+      "width": 1220,
+      "height": 2186,
+      "aspectRatio": 0.5580969807868252,
+      "s3Key": "red book/image_021.png",
+      "lastModified": "2025-07-27T02:47:57.282Z",
+      "size": 3512769,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 52,
+        "contrast": 46,
+        "shadowRatio": 0.21,
+        "highlightRatio": 0.3
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_017",
+      "title": "image 017",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.384Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_017.png",
+      "thumbnailUrl": "/thumbnails/image_017.webp",
+      "thumbHash": "a2f7090c02b79e88f879988577973d60b90476",
+      "width": 1618,
+      "height": 2560,
+      "aspectRatio": 0.63203125,
+      "s3Key": "red book/image_017.png",
+      "lastModified": "2025-07-27T02:47:51.475Z",
+      "size": 5639974,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 53,
+        "contrast": 54,
+        "shadowRatio": 0.16,
+        "highlightRatio": 0.35
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_038",
+      "title": "image 038",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.349Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_038.png",
+      "thumbnailUrl": "/thumbnails/image_038.webp",
+      "thumbHash": "1f080a0d007f3ecd68d06548697ab79907150a22a3",
+      "width": 1080,
+      "height": 1588,
+      "aspectRatio": 0.6801007556675063,
+      "s3Key": "red book/image_038.png",
+      "lastModified": "2025-07-27T02:48:28.051Z",
+      "size": 2026842,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 49,
+        "contrast": 59,
+        "shadowRatio": 0.36,
+        "highlightRatio": 0.31
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_039",
+      "title": "image 039",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.340Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_039.png",
+      "thumbnailUrl": "/thumbnails/image_039.webp",
+      "thumbHash": "a528120d028f957b77a676987768888857ac1f04cb",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_039.png",
+      "lastModified": "2025-07-27T02:48:33.441Z",
+      "size": 8493660,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "high-contrast",
+        "brightness": 59,
+        "contrast": 64,
+        "shadowRatio": 0.32,
+        "highlightRatio": 0.52
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_036",
+      "title": "image 036",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.301Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_036.png",
+      "thumbnailUrl": "/thumbnails/image_036.webp",
+      "thumbHash": "9d08121d0497898f98977667797588882aa2a0100a",
+      "width": 1080,
+      "height": 1444,
+      "aspectRatio": 0.7479224376731302,
+      "s3Key": "red book/image_036.png",
+      "lastModified": "2025-07-27T02:48:16.632Z",
+      "size": 2038012,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 48,
+        "contrast": 54,
+        "shadowRatio": 0.42,
+        "highlightRatio": 0.4
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_022",
+      "title": "image 022",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.198Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_022.png",
+      "thumbnailUrl": "/thumbnails/image_022.webp",
+      "thumbHash": "2d08060d00f35b838ed66ba5366788894fa0f95369",
+      "width": 1280,
+      "height": 1707,
+      "aspectRatio": 0.7498535442296427,
+      "s3Key": "red book/image_022.png",
+      "lastModified": "2025-07-27T02:47:56.737Z",
+      "size": 3874924,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "high-key",
+        "brightness": 71,
+        "contrast": 38,
+        "shadowRatio": 0.08,
+        "highlightRatio": 0.79
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_006",
+      "title": "image 006",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.080Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_006.png",
+      "thumbnailUrl": "/thumbnails/image_006.webp",
+      "thumbHash": "6318120d0298678f8a36797787797877084a8c6095",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_006.png",
+      "lastModified": "2025-07-27T02:47:42.229Z",
+      "size": 5040003,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 57,
+        "contrast": 59,
+        "shadowRatio": 0.23,
+        "highlightRatio": 0.4
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_010",
+      "title": "image 010",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:46.066Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_010.png",
+      "thumbnailUrl": "/thumbnails/image_010.webp",
+      "thumbHash": "e407060d02e96adf8869591784894798866f57f766",
+      "width": 1440,
+      "height": 1920,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_010.png",
+      "lastModified": "2025-07-27T02:47:40.640Z",
+      "size": 1588294,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 57,
+        "contrast": 33,
+        "shadowRatio": 0.07,
+        "highlightRatio": 0.23
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_028",
+      "title": "image 028",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:45.974Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_028.png",
+      "thumbnailUrl": "/thumbnails/image_028.webp",
+      "thumbHash": "9f180a0c0299f56698767799a797fa86967f57",
+      "width": 1080,
+      "height": 1703,
+      "aspectRatio": 0.6341749853200235,
+      "s3Key": "red book/image_028.png",
+      "lastModified": "2025-07-27T02:48:08.819Z",
+      "size": 1901916,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 50,
+        "contrast": 46,
+        "shadowRatio": 0.23,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_027",
+      "title": "image 027",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:45.871Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_027.png",
+      "thumbnailUrl": "/thumbnails/image_027.webp",
+      "thumbHash": "0e180a0d020bb6ac67a7999778876a87f771890b97",
+      "width": 1489,
+      "height": 1985,
+      "aspectRatio": 0.7501259445843829,
+      "s3Key": "red book/image_027.png",
+      "lastModified": "2025-07-27T02:48:03.139Z",
+      "size": 4216848,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 22,
+        "contrast": 46,
+        "shadowRatio": 0.77,
+        "highlightRatio": 0.1
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_032",
+      "title": "image 032",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:45.726Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_032.png",
+      "thumbnailUrl": "/thumbnails/image_032.webp",
+      "thumbHash": "da180a0c02714199ba8a6f474b3858428f02e5",
+      "width": 2268,
+      "height": 4032,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_032.png",
+      "lastModified": "2025-07-27T02:49:13.433Z",
+      "size": 10992396,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 42,
+        "contrast": 56,
+        "shadowRatio": 0.5,
+        "highlightRatio": 0.26
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_025",
+      "title": "image 025",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:45.538Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_025.png",
+      "thumbnailUrl": "/thumbnails/image_025.webp",
+      "thumbHash": "9e18121d0498787f77a77877887798778763702705",
+      "width": 1080,
+      "height": 1442,
+      "aspectRatio": 0.7489597780859917,
+      "s3Key": "red book/image_025.png",
+      "lastModified": "2025-07-27T02:48:00.103Z",
+      "size": 2145315,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 49,
+        "contrast": 52,
+        "shadowRatio": 0.34,
+        "highlightRatio": 0.38
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_011",
+      "title": "image 011",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:45.453Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_011.png",
+      "thumbnailUrl": "/thumbnails/image_011.webp",
+      "thumbHash": "66080e0d0285898f9a1677d7999787771ce0a2025d",
+      "width": 1280,
+      "height": 1707,
+      "aspectRatio": 0.7498535442296427,
+      "s3Key": "red book/image_011.png",
+      "lastModified": "2025-07-27T02:47:46.385Z",
+      "size": 3890905,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 61,
+        "contrast": 52,
+        "shadowRatio": 0.17,
+        "highlightRatio": 0.59
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_014",
+      "title": "image 014",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:45.450Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_014.png",
+      "thumbnailUrl": "/thumbnails/image_014.webp",
+      "thumbHash": "a918121d04f856887b7768b7687787788680590789",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_014.png",
+      "lastModified": "2025-07-27T02:47:45.773Z",
+      "size": 1370544,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 66,
+        "contrast": 60,
+        "shadowRatio": 0.19,
+        "highlightRatio": 0.62
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_031",
+      "title": "image 031",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:45.406Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_031.png",
+      "thumbnailUrl": "/thumbnails/image_031.webp",
+      "thumbHash": "a1280e15045fa66b97887978977788795f20f45434",
+      "width": 1920,
+      "height": 2560,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_031.png",
+      "lastModified": "2025-07-27T02:48:09.169Z",
+      "size": 7274041,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 52,
+        "contrast": 43,
+        "shadowRatio": 0.23,
+        "highlightRatio": 0.35
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_023",
+      "title": "image 023",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:45.352Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_023.png",
+      "thumbnailUrl": "/thumbnails/image_023.webp",
+      "thumbHash": "56280a0c025a5f8777787b756778f260461f65",
+      "width": 1010,
+      "height": 1647,
+      "aspectRatio": 0.6132361870066788,
+      "s3Key": "red book/image_023.png",
+      "lastModified": "2025-07-27T02:47:59.261Z",
+      "size": 1501669,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 35,
+        "contrast": 48,
+        "shadowRatio": 0.67,
+        "highlightRatio": 0.14
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_024",
+      "title": "image 024",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:45.101Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_024.png",
+      "thumbnailUrl": "/thumbnails/image_024.webp",
+      "thumbHash": "9c18120d00b05a789889879878887777f5484b0db2",
+      "width": 1440,
+      "height": 1920,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_024.png",
+      "lastModified": "2025-07-27T02:48:00.790Z",
+      "size": 3654682,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 46,
+        "contrast": 60,
+        "shadowRatio": 0.45,
+        "highlightRatio": 0.42
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_001",
+      "title": "image 001",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:44.870Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_001.png",
+      "thumbnailUrl": "/thumbnails/image_001.webp",
+      "thumbHash": "6a08060d00f6749b77f725ba5795496860680a0574",
+      "width": 1920,
+      "height": 2559,
+      "aspectRatio": 0.7502930832356389,
+      "s3Key": "red book/image_001.png",
+      "lastModified": "2025-07-27T02:47:36.350Z",
+      "size": 7008205,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 68,
+        "contrast": 29,
+        "shadowRatio": 0.06,
+        "highlightRatio": 0.66
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_018",
+      "title": "image 018",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:44.793Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_018.png",
+      "thumbnailUrl": "/thumbnails/image_018.webp",
+      "thumbHash": "ea18121d04f746797c5588a7788797787680680688",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_018.png",
+      "lastModified": "2025-07-27T02:47:49.537Z",
+      "size": 1401841,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 68,
+        "contrast": 56,
+        "shadowRatio": 0.14,
+        "highlightRatio": 0.66
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_005",
+      "title": "image 005",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:44.780Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_005.png",
+      "thumbnailUrl": "/thumbnails/image_005.webp",
+      "thumbHash": "64180a150294304238a7848b98c08ba57b90d50848",
+      "width": 1440,
+      "height": 1920,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_005.png",
+      "lastModified": "2025-07-27T02:47:35.630Z",
+      "size": 1631748,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 58,
+        "contrast": 50,
+        "shadowRatio": 0.18,
+        "highlightRatio": 0.41
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_004",
+      "title": "image 004",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:44.561Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_004.png",
+      "thumbnailUrl": "/thumbnails/image_004.webp",
+      "thumbHash": "58080a0d02b7955f79876698689859870c3ec75064",
+      "width": 1080,
+      "height": 1452,
+      "aspectRatio": 0.743801652892562,
+      "s3Key": "red book/image_004.png",
+      "lastModified": "2025-07-27T02:47:36.203Z",
+      "size": 2915603,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 38,
+        "contrast": 48,
+        "shadowRatio": 0.55,
+        "highlightRatio": 0.15
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_003",
+      "title": "image 003",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:44.540Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_003.png",
+      "thumbnailUrl": "/thumbnails/image_003.webp",
+      "thumbHash": "a3280a0d02d78690639a56698878977602c07cf778",
+      "width": 1080,
+      "height": 1440,
+      "aspectRatio": 0.75,
+      "s3Key": "red book/image_003.png",
+      "lastModified": "2025-07-27T02:47:34.963Z",
+      "size": 1432015,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 57,
+        "contrast": 31,
+        "shadowRatio": 0.06,
+        "highlightRatio": 0.23
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "image_002",
+      "title": "image 002",
+      "description": "",
+      "dateTaken": "2025-07-27T03:02:44.364Z",
+      "tags": [
+        "red book"
+      ],
+      "originalUrl": "https://r2.weii.eu.org/red book/image_002.png",
+      "thumbnailUrl": "/thumbnails/image_002.webp",
+      "thumbHash": "5c290e0c02f4ca689768787787786f93bc06c9",
+      "width": 1080,
+      "height": 1920,
+      "aspectRatio": 0.5625,
+      "s3Key": "red book/image_002.png",
+      "lastModified": "2025-07-27T02:47:35.946Z",
+      "size": 1141557,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 46,
+        "contrast": 40,
+        "shadowRatio": 0.3,
+        "highlightRatio": 0.13
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
       "id": "photo_2025-07-27_08-40-40",
       "title": "photo 08 40 40",
       "description": "",
